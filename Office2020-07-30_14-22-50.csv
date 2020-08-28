@@ -1,0 +1,181 @@
+0,1,2,3,4,5
+Date,Tweet,Sentiment Score,Calculation,Possitive Word(s),Negative Word(s)
+Thu Jul 30 19:21:22 +0000 2020,"@theserwah It’s good 
+Depends on where the office is too",3,"[{""good"":3}]",,[]
+Thu Jul 30 19:21:22 +0000 2020,RT @LisaMarieBoothe: The fact that Obama would use a funeral for political purposes underscores why his 8 years in office were so divisive.,-1,"[{""funeral"":-1}]",,"[""funeral""]"
+Thu Jul 30 19:21:22 +0000 2020,RT @CREWcrew: We’re keeping a close eye on USPS: Some of Louis DeJoy’s new policies include slashing USPS post office hours and closing som…,-2,"[{""slashing"":-2}]",,"[""slashing""]"
+Thu Jul 30 19:21:22 +0000 2020,RT @Suzyqmimmj: @SpeakerPelosi SAVE THE POST OFFICE!,2,"[{""save"":2}]",,[]
+Thu Jul 30 19:21:22 +0000 2020,"RT @UberFacts: Adolf Hitler enjoyed being pooped on during sex, according to a report from the US Office of Strategic Services (the predece…",2,"[{""enjoyed"":2}]",,[]
+Thu Jul 30 19:21:22 +0000 2020,"RT @MollyBeck: @GovEvers @Vanwanggaard ""It’s transparent and blatantly political that his order doesn’t take effect until his handpicked Su…",1,"[{""handpicked"":1}]",,[]
+Thu Jul 30 19:21:21 +0000 2020,"RT @UberFacts: Adolf Hitler enjoyed being pooped on during sex, according to a report from the US Office of Strategic Services (the predece…",2,"[{""enjoyed"":2}]",,[]
+Thu Jul 30 19:21:21 +0000 2020,RT @ElieNYC: I just can't believe sometimes that a majority of white people thought that Barack Obama should be succeeded by the nasty ass…,0,"[{""nasty"":-3},{""succeeded"":3}]",,"[""nasty""]"
+Thu Jul 30 19:21:21 +0000 2020,RT @LisaMarieBoothe: The fact that Obama would use a funeral for political purposes underscores why his 8 years in office were so divisive.,-1,"[{""funeral"":-1}]",,"[""funeral""]"
+Thu Jul 30 19:21:21 +0000 2020,@MikeLevin Republicans are trying to close the USPS in order to help cheat their way back into office (which will n… https://t.co/pXg0D0H0n8,-1,"[{""cheat"":-3},{""help"":2}]",,"[""cheat""]"
+Thu Jul 30 19:21:21 +0000 2020,"Orange SemiCircles Print, Half Circles, Half Moon Wall Art, Nursery Wall Decor, Living Room Wall Art, Office Prints… https://t.co/lGpZhSXdPx",0,[],,[]
+Thu Jul 30 19:21:20 +0000 2020,"if you're wondering how life has changed since i have been back in the office, i spend a lot less time tanning but… https://t.co/O7hD17JN51",0,[],,[]
+Thu Jul 30 19:21:20 +0000 2020,"RT @jayrosen_nyu: This is what I want to see reporters doing today. Not ringing up election experts to ask, ""can he really do that?"" Tracki…",1,"[{""want"":1}]",,[]
+Thu Jul 30 19:21:20 +0000 2020,RT @dhere: I would simply vote the shark out of office in the next election,0,[],,[]
+Thu Jul 30 19:21:20 +0000 2020,RT @Guugu_lethu: guys?! 😭💔. at her fathers funeral? we can’t mourn in peace. we can’t go to the post office in peace. can’t walk down the r…,1,"[{""peace"":2},{""peace"":2},{""mourn"":-2},{""funeral"":-1}]",,"[""mourn"",""funeral""]"
+Thu Jul 30 19:21:20 +0000 2020,This morning I started randomly crying because I miss my office chair. How’s your pandemic going?,-4,"[{""miss"":-2},{""crying"":-2}]",,"[""miss"",""crying""]"
+Thu Jul 30 19:21:20 +0000 2020,RT @CGasparino: BREAKING: Update on banks NYC reopening-- Non essential staff still on sked to be filtered into offices in Sept; banks coul…,0,[],,[]
+Thu Jul 30 19:21:20 +0000 2020,"RT @ProjectLincoln: Republicans in office, if you can’t stand up to this president now, why are you even in office?",0,[],,[]
+Thu Jul 30 19:21:20 +0000 2020,RT @LisaMarieBoothe: The fact that Obama would use a funeral for political purposes underscores why his 8 years in office were so divisive.,-1,"[{""funeral"":-1}]",,"[""funeral""]"
+Thu Jul 30 19:21:19 +0000 2020,RT @ElieNYC: I just can't believe sometimes that a majority of white people thought that Barack Obama should be succeeded by the nasty ass…,0,"[{""nasty"":-3},{""succeeded"":3}]",,"[""nasty""]"
+Thu Jul 30 19:21:19 +0000 2020,RT @clairecmc: Any Republican who fails to denounce “delay the election” should be run out of office. Immediately.,-4,"[{""denounce"":-2},{""fails"":-2}]",,"[""denounce"",""fails""]"
+Thu Jul 30 19:21:19 +0000 2020,"@bennyjohnson Is he running for office? Come on, this is a funeral, not election campaign!",-1,"[{""funeral"":-1}]",,"[""funeral""]"
+Thu Jul 30 19:21:19 +0000 2020,@CREWcrew Just get the word out to drop their ballots off at the county clerk's office it is as simple as that,-1,"[{""drop"":-1}]",,"[""drop""]"
+Thu Jul 30 19:21:19 +0000 2020,RT @LisaMarieBoothe: The fact that Obama would use a funeral for political purposes underscores why his 8 years in office were so divisive.,-1,"[{""funeral"":-1}]",,"[""funeral""]"
+Thu Jul 30 19:21:18 +0000 2020,"RT @AdamSchiff: You can rant all you like.
+
+Spread all the lies you want.
+
+Stoke all the fear and division you desire.
+
+But ...
+
+We voted d…",-1,"[{""desire"":1},{""fear"":-2},{""want"":1},{""like"":2},{""rant"":-3}]",,"[""fear"",""rant""]"
+Thu Jul 30 19:21:18 +0000 2020,"RT @XArmandKleinX: What a disgrace!This evil dem.should not be in office,supports domestic terr*rists who shot &amp;killed kids,civil people,Po…",-6,"[{""killed"":-3},{""supports"":2},{""evil"":-3},{""disgrace"":-2}]",,"[""killed"",""evil"",""disgrace""]"
+Thu Jul 30 19:21:18 +0000 2020,"RT @TheRickyDavila: Holy shit, President Obama just spoke about attacks against the US post office, active attacks against our elections, v…",-5,"[{""attacks"":-1},{""active"":1},{""attacks"":-1},{""shit"":-4}]",,"[""attacks"",""attacks"",""shit""]"
+Thu Jul 30 19:21:18 +0000 2020,"President Bush was a flawed person but, he's redeemed himself since leaving office &amp; asked to speak at 3 funerals.… https://t.co/h9h8wM7fgL",-2,"[{""funerals"":-1},{""redeemed"":2},{""flawed"":-3}]",,"[""funerals"",""flawed""]"
+Thu Jul 30 19:21:18 +0000 2020,"RT @chipfranklin: Raise your hand if you think Donnie is terrified of losing in November, because he knows he’s going from the Oval Office…",-6,"[{""losing"":-3},{""terrified"":-3}]",,"[""losing"",""terrified""]"
+Thu Jul 30 19:21:18 +0000 2020,RT @batesmothel: every day 😭 for eight years 😭 i've brought 😭 pepper spray 😭 into this office 😭 to protect myself 😭 and my fellow employees…,-5,"[{""😭"":-1},{""protect"":1},{""😭"":-1},{""😭"":-1},{""😭"":-1},{""😭"":-1},{""😭"":-1}]",,"[""😭"",""😭"",""😭"",""😭"",""😭"",""😭""]"
+Thu Jul 30 19:21:18 +0000 2020,"@realDonaldTrump YES, I AGREE THE FIRST THING SHE MUST DO IS ARRESY THE ANARCHIST WHO'S SITTING IN THE OVAL OFFICE… https://t.co/9P3t02kzUI",2,"[{""agree"":1},{""yes"":1}]",,[]
+Thu Jul 30 19:21:18 +0000 2020,"RT @jaarreaza: It seems that @SecPompeo is somewhat disconnected from reality, not realizing that those who should be preparing their exit…",0,[],,[]
+Thu Jul 30 19:21:18 +0000 2020,RT @clairecmc: Any Republican who fails to denounce “delay the election” should be run out of office. Immediately.,-4,"[{""denounce"":-2},{""fails"":-2}]",,"[""denounce"",""fails""]"
+Thu Jul 30 19:21:18 +0000 2020,"RT @savndaniel: MR MAGU’S FULL RESPONSE BELOW
+
+RE: ALLEGED CASE OF CONSPIRACY, ENRICHMENT ABUSE OF PUBLIC OFFICE AND OTHER INFRACTIONS
+The…",-6,"[{""abuse"":-3},{""conspiracy"":-3}]",,"[""abuse"",""conspiracy""]"
+Thu Jul 30 19:21:18 +0000 2020,RT @dhere: I would simply vote the shark out of office in the next election https://t.co/CQP3qCvDZw,0,[],,[]
+Thu Jul 30 19:21:17 +0000 2020,RT @LFC: Not a bad week at the office for the Reds 😄🏆 https://t.co/HaFXKuHu7W,-3,"[{""bad"":-3}]",,"[""bad""]"
+Thu Jul 30 19:21:17 +0000 2020,RT @dhere: I would simply vote the shark out of office in the next election,0,[],,[]
+Thu Jul 30 19:21:17 +0000 2020,"RT @aaronnarraph: We need to talk about former prosecutors running for office as “progressives,” because it’s legitimately impossible for t…",0,[],,[]
+Thu Jul 30 19:21:17 +0000 2020,"RT @RoshedoWilliams: Table Top Aquariums available. 
+Perfect for office or home ☺️. 
+Complete set up done by me. 
+Email: roshedowilliams@gm…",5,"[{""perfect"":3},{""top"":2}]",,[]
+Thu Jul 30 19:21:17 +0000 2020,"RT @TheRickWilson: Get your absentee ballot. 
+
+Do it today. 
+
+Vote the moment you can.
+
+This has to be an electoral college wipeout, and it…",-1,"[{""absentee"":-1}]",,"[""absentee""]"
+Thu Jul 30 19:21:17 +0000 2020,"RT @KharloKong: Liberals: Trump can't refuse to leave the presidency if he loses because it's unconstitutional!
+
+Liberals when Trump refuse…",1,"[{""leave"":-1},{""refuse"":2}]",,"[""leave""]"
+Thu Jul 30 19:21:16 +0000 2020,RT @dhere: I would simply vote the shark out of office in the next election,0,[],,[]
+Thu Jul 30 19:21:16 +0000 2020,"RT @NathanHRubin: If Donald Trump thinks we can move the election back, what’s stopping us from moving the election up? 
+
+I’d gladly vote h…",-1,"[{""stopping"":-1}]",,"[""stopping""]"
+Thu Jul 30 19:21:16 +0000 2020,@craigmelvin Except Obama could have just spoke about Mr Lewis and left out his preaching about the state of politi… https://t.co/Dd63lmHoSs,0,[],,[]
+Thu Jul 30 19:21:16 +0000 2020,@RosieBarton If he—or someone in his office—had been familiar with his ethical obligations he would have informed himself on these matters.,3,"[{""matters"":1},{""ethical"":2}]",,[]
+Thu Jul 30 19:21:15 +0000 2020,RT @LisaMarieBoothe: The fact that Obama would use a funeral for political purposes underscores why his 8 years in office were so divisive.,-1,"[{""funeral"":-1}]",,"[""funeral""]"
+Thu Jul 30 19:21:15 +0000 2020,RT @shayxonline: me 0.4 seconds after i leave the office for my lunch hour https://t.co/bGTLtdEk1e,-1,"[{""leave"":-1}]",,"[""leave""]"
+Thu Jul 30 19:21:15 +0000 2020,RT @LukhanyoV: We must begin a process to urgently retire old people from Public Office.,0,[],,[]
+Thu Jul 30 19:21:15 +0000 2020,"RT @CouncilmanCrear: Weather you agree with the agenda item or not, is this leagal to abruptly stop a public meeting and not open a publish…",0,"[{""stop"":-1},{""agree"":1}]",,"[""stop""]"
+Thu Jul 30 19:21:15 +0000 2020,RT @clairecmc: Any Republican who fails to denounce “delay the election” should be run out of office. Immediately.,-4,"[{""denounce"":-2},{""fails"":-2}]",,"[""denounce"",""fails""]"
+Thu Jul 30 19:21:15 +0000 2020,"RT @TheRickWilson: Get your absentee ballot. 
+
+Do it today. 
+
+Vote the moment you can.
+
+This has to be an electoral college wipeout, and it…",-1,"[{""absentee"":-1}]",,"[""absentee""]"
+Thu Jul 30 19:21:14 +0000 2020,RT @clairecmc: Any Republican who fails to denounce “delay the election” should be run out of office. Immediately.,-4,"[{""denounce"":-2},{""fails"":-2}]",,"[""denounce"",""fails""]"
+Thu Jul 30 19:21:14 +0000 2020,"@realDonaldTrump Scared and resorting to (more) lying, eh? SAD. Nothing will keep me from the polls to vote you out… https://t.co/39VDuuZ16g",-4,"[{""sad"":-2},{""scared"":-2}]",,"[""sad"",""scared""]"
+Thu Jul 30 19:21:14 +0000 2020,"RT @hvgoenka: As I entered business, one of the first people I met was Mr J.R.D. Tata at his elegant understated office. I took back with m…",2,"[{""elegant"":2}]",,[]
+Thu Jul 30 19:21:14 +0000 2020,RT @LFC: Not a bad week at the office for the Reds 😄🏆 https://t.co/HaFXKuHu7W,-3,"[{""bad"":-3}]",,"[""bad""]"
+Thu Jul 30 19:21:14 +0000 2020,RT @wildscotsmum: @scotgov @transcotland @NicolaSturgeon Are all the mps back in office or still working from home? I don’t see how it’s sa…,0,[],,[]
+Thu Jul 30 19:21:14 +0000 2020,"""In an Upside-Down Summer,' Jaws,' 'E.T.' Are Hits Again"" by The Associated Press via NYT https://t.co/Xufayo2EXu",0,[],,[]
+Thu Jul 30 19:21:13 +0000 2020,"RT @courierjournal: Kentucky attorney general: Breonna Taylor autopsy, police radio files shouldn't be released yet https://t.co/j21cFK2Chz",0,[],,[]
+Thu Jul 30 19:21:13 +0000 2020,RT @LFC: Not a bad week at the office for the Reds 😄🏆 https://t.co/HaFXKuHu7W,-3,"[{""bad"":-3}]",,"[""bad""]"
+Thu Jul 30 19:21:13 +0000 2020,RT @funder: No one should ever forget that Trump is saying all this nonsense while we are in the middle of a pandemic. If you’re a Republic…,-4,"[{""nonsense"":-2},{""forget"":-1},{""no"":-1}]",,"[""nonsense"",""forget"",""no""]"
+Thu Jul 30 19:21:13 +0000 2020,"Please stop with the theatrics.
+
+This isn’t going to happen.
+
+The USPS has been getting steadily defunded for a ver… https://t.co/SFMszvlNWG",0,"[{""stop"":-1},{""please"":1}]",,"[""stop""]"
+Thu Jul 30 19:21:13 +0000 2020,"RT @UberFacts: Adolf Hitler enjoyed being pooped on during sex, according to a report from the US Office of Strategic Services (the predece…",2,"[{""enjoyed"":2}]",,[]
+Thu Jul 30 19:21:12 +0000 2020,@IndyMeaghan I definitely saw this coming🙄. I’m ready to vote him out of office 🤦🏼‍♀️,0,[],,[]
+Thu Jul 30 19:21:12 +0000 2020,our office administrator came in and I was like “OKAY HAIR” and my coworker said “wow that was loud” ... yt woman I will slap you,2,"[{""like"":2}]",,[]
+Thu Jul 30 19:21:12 +0000 2020,RT @LisaMarieBoothe: The fact that Obama would use a funeral for political purposes underscores why his 8 years in office were so divisive.,-1,"[{""funeral"":-1}]",,"[""funeral""]"
+Thu Jul 30 19:21:12 +0000 2020,"RT @howeasyweforget: @realDonaldTrump @Varneyco Can you say Hatch Act? Pillows, beans, pizza 
+(in addition to soliciting foreign help to ch…",2,"[{""help"":2}]",,[]
+Thu Jul 30 19:21:12 +0000 2020,RT @CREWcrew: We’re keeping a close eye on USPS: Some of Louis DeJoy’s new policies include slashing USPS post office hours and closing som…,-2,"[{""slashing"":-2}]",,"[""slashing""]"
+Thu Jul 30 19:21:12 +0000 2020,"RT @sailorrooscout: The USPS is a public service, NOT a business. This is being done on purpose solely to benefit those who do not want to…",1,"[{""want"":-1},{""benefit"":2}]",,"[""want""]"
+Thu Jul 30 19:21:12 +0000 2020,I'm so tired of out of office replies. LOL. But the whole summer in rice and let's just come back in the fall why don't we.,1,"[{""lol"":3},{""tired"":-2}]",,"[""tired""]"
+Thu Jul 30 19:21:12 +0000 2020,RT @CREWcrew: We’re keeping a close eye on USPS: Some of Louis DeJoy’s new policies include slashing USPS post office hours and closing som…,-2,"[{""slashing"":-2}]",,"[""slashing""]"
+Thu Jul 30 19:21:11 +0000 2020,RT @dhere: I would simply vote the shark out of office in the next election,0,[],,[]
+Thu Jul 30 19:21:11 +0000 2020,"RT @DylanJMSimpson: We are organizing to vote you, and republicans who supported your dangerous policies out of office in 96 days whether y…",0,"[{""dangerous"":-2},{""supported"":2}]",,"[""dangerous""]"
+Thu Jul 30 19:21:11 +0000 2020,"RT @MoviesPackage: The actor who introduced 100crs gross to South industries that to with his 2nd film💥💥
+
+Mr box office 💪🙏
+#11YearsForIHMag…",-2,"[{""gross"":-2}]",,"[""gross""]"
+Thu Jul 30 19:21:11 +0000 2020,"@StateDept @SecPompeo @jaarreaza 
+It seems that @SecPompeo is somewhat disconnected from reality, not realizing tha… https://t.co/0iG18ZvLpB",0,[],,[]
+Thu Jul 30 19:21:11 +0000 2020,"RT @TheRickWilson: Get your absentee ballot. 
+
+Do it today. 
+
+Vote the moment you can.
+
+This has to be an electoral college wipeout, and it…",-1,"[{""absentee"":-1}]",,"[""absentee""]"
+Thu Jul 30 19:21:11 +0000 2020,"RT @HKrassenstein: @realDonaldTrump @Varneyco This is a violation of 5 CFR § 2635.702 - Use of public office for private gain.
+
+Of course R…",0,"[{""gain"":2},{""violation"":-2}]",,"[""violation""]"
+Thu Jul 30 19:21:11 +0000 2020,RT @ElieNYC: I just can't believe sometimes that a majority of white people thought that Barack Obama should be succeeded by the nasty ass…,0,"[{""nasty"":-3},{""succeeded"":3}]",,"[""nasty""]"
+Thu Jul 30 19:21:11 +0000 2020,"RT @UberFacts: Adolf Hitler enjoyed being pooped on during sex, according to a report from the US Office of Strategic Services (the predece…",2,"[{""enjoyed"":2}]",,[]
+Thu Jul 30 19:21:11 +0000 2020,RT @clairecmc: Any Republican who fails to denounce “delay the election” should be run out of office. Immediately.,-4,"[{""denounce"":-2},{""fails"":-2}]",,"[""denounce"",""fails""]"
+Thu Jul 30 19:21:11 +0000 2020,"RT @murray_nyc: @realDonaldTrump TRUMP CANNOT DELAY the ELECTION
+
+A president doesn’t have the power to delay an entire election. This is a…",-2,"[{""delay"":-1},{""delay"":-1}]",,"[""delay"",""delay""]"
+Thu Jul 30 19:21:11 +0000 2020,"RT @PredsNHL: Set your out of office emails, you've got hockey to watch. 
+
+⏰ 3 p.m. CT
+📺 @PredsOnFSTN
+📻 @1025TheGame
+
+#NSHvsDAL | #ForSmash…",6,"[{""📻"":2},{""📺"":2},{""⏰"":2}]",,[]
+Thu Jul 30 19:21:10 +0000 2020,Good thing I’m working from my office 4 days a week lol,6,"[{""lol"":3},{""good"":3}]",,[]
+Thu Jul 30 19:21:10 +0000 2020,Looking forward to the day where I can vote this dude out of office. Also #SupportTheUSPS,0,[],,[]
+Thu Jul 30 19:21:10 +0000 2020,"@seanhannity When Democrats voted these trolls into office, maybe they didn’t bother to check and see if they even have a working brain. lol",1,"[{""lol"":3},{""bother"":-2}]",,"[""bother""]"
+Thu Jul 30 19:21:09 +0000 2020,"RT @HKrassenstein: @realDonaldTrump @Varneyco This is a violation of 5 CFR § 2635.702 - Use of public office for private gain.
+
+Of course R…",0,"[{""gain"":2},{""violation"":-2}]",,"[""violation""]"
+Thu Jul 30 19:21:09 +0000 2020,"RT @ZahidGishkori: New Turn: Sarina Isa wrote 2 letters to FBR for copies of her tax declarations, that she d'not hav as Hassan Naqvi (tax…",0,[],,[]
+Thu Jul 30 19:21:08 +0000 2020,"RT @jadedcreative: Just keep retweeting until Trump is out of office. 💙🙌🏼
+
+ https://t.co/Ufws13nt9T",0,[],,[]
+Thu Jul 30 19:21:08 +0000 2020,"RT @BDSixsmith: Me, one week after losing my company's top investor and accidentally burning down an office building: My performance in the…",-3,"[{""accidentally"":-2},{""top"":2},{""losing"":-3}]",,"[""accidentally"",""losing""]"
+Thu Jul 30 19:21:08 +0000 2020,RT @LisaMarieBoothe: The fact that Obama would use a funeral for political purposes underscores why his 8 years in office were so divisive.,-1,"[{""funeral"":-1}]",,"[""funeral""]"
+Thu Jul 30 19:21:08 +0000 2020,If you quick scope in modern warfare please hand your laptop into your local police office! Fucking Nonces,-5,"[{""fucking"":-4},{""please"":1},{""warfare"":-2}]",,"[""fucking"",""warfare""]"
+Thu Jul 30 19:21:08 +0000 2020,RT @LisaMarieBoothe: The fact that Obama would use a funeral for political purposes underscores why his 8 years in office were so divisive.,-1,"[{""funeral"":-1}]",,"[""funeral""]"
+Thu Jul 30 19:21:08 +0000 2020,"@RepBalderson @HouseAgGOP Ah thanks, Troy! 
+
+What a treat to get a peek into my new office. https://t.co/kiHR2EvBh6",2,"[{""thanks"":2}]",,[]
+Thu Jul 30 19:21:08 +0000 2020,"RT @CarmelaStarr7: @charliekirk11 Seems like a good time to remind everybody that you are a liar, particularly when it comes to Blacks.
+
+Al…",2,"[{""liar"":-3},{""good"":3},{""like"":2}]",,"[""liar""]"
+Thu Jul 30 19:21:08 +0000 2020,"⠀ ⠀ ⠀  🤠
+　   👨🏿‍💼👨🏿‍💼👨🏿‍💼
+    👨🏿‍💼   👨🏿‍💼　👨🏿‍💼
+   👇   👨🏿‍💼👨🏿‍💼 👇
+  　  👨🏿‍💼　👨🏿‍💼
+　   👨🏿‍💼　 👨🏿‍💼
+　   👢     👢
+howdy. i… https://t.co/b5NfQsXWLC",10,"[{""👢"":4},{""👢"":4},{""👇"":1},{""👇"":1}]",,[]
+Thu Jul 30 19:21:08 +0000 2020,"RT @Chicago1Ray: 💥SOROS MUST BE STOPPED💥
+
+He's calling on (FB) execs to resign for their comments Mas made on (Regs)
+
+Soros through his Jus…",-1,"[{""resign"":-1}]",,"[""resign""]"
+Thu Jul 30 19:21:08 +0000 2020,"RT @ScottPresler: I made it to Jacksonville! 
+
+The Republican Party has an awesome office at 1561 Atlantic Blvd. in Neptune Beach, FL. http…",4,"[{""awesome"":4}]",,[]
+Thu Jul 30 19:21:08 +0000 2020,"RT @BrugesGroup: Several boats carrying illegal migrants have arrived in the UK already today - and it’s not even 11:00. 
+
+Sadly, the Home…",-5,"[{""sadly"":-2},{""illegal"":-3}]",,"[""sadly"",""illegal""]"
+Thu Jul 30 19:21:08 +0000 2020,RT @LisaMarieBoothe: The fact that Obama would use a funeral for political purposes underscores why his 8 years in office were so divisive.,-1,"[{""funeral"":-1}]",,"[""funeral""]"
+Thu Jul 30 19:21:08 +0000 2020,RT @LisaMarieBoothe: The fact that Obama would use a funeral for political purposes underscores why his 8 years in office were so divisive.,-1,"[{""funeral"":-1}]",,"[""funeral""]"
+Thu Jul 30 19:21:07 +0000 2020,what is happening at the post office lol https://t.co/5xl4qKAkGo,3,"[{""lol"":3}]",,[]

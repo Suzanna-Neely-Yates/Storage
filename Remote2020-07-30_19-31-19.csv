@@ -1,0 +1,117 @@
+0,1,2,3,4,5
+Date,Tweet,Sentiment Score,Calculation,Possitive Word(s),Negative Word(s)
+Fri Jul 31 00:29:21 +0000 2020,"Got two weird ones that ultimately lead to me ending up a my current employer on which I am thankful.
+
+First go-aro… https://t.co/W75118V15r",0,"[{""thankful"":2},{""weird"":-2}]",,"[""weird""]"
+Fri Jul 31 00:29:17 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:29:01 +0000 2020,RT realtordotcom The ability to work remotely is driving home shoppers' motivation; 40% say they expect to purchase… https://t.co/YEJKFUN8g5,3,"[{""motivation"":1},{""ability"":2}]",,[]
+Fri Jul 31 00:28:50 +0000 2020,RT @stratodesk: Six leading investors assess the #remotework startup landscape  https://t.co/Zcg16l3rGx via @techcrunch #VC #startups,2,"[{""leading"":2}]",,[]
+Fri Jul 31 00:28:11 +0000 2020,"RT @VoltaireLaFlare: Rising 3Ls: does anyone want to be my intern in the Fall? Remote, 12-16 hours per week, doing cutting edge federal lit…",0,"[{""cutting"":-1},{""want"":1}]",,"[""cutting""]"
+Fri Jul 31 00:28:03 +0000 2020,"@VerizonSupport, halp? New remote works SOOOO much better than old remote, but after reading the online instruction… https://t.co/WUFUyMmqAw",2,"[{""better"":2}]",,[]
+Fri Jul 31 00:27:19 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:26:33 +0000 2020,"RT @VoltaireLaFlare: Rising 3Ls: does anyone want to be my intern in the Fall? Remote, 12-16 hours per week, doing cutting edge federal lit…",0,"[{""cutting"":-1},{""want"":1}]",,"[""cutting""]"
+Fri Jul 31 00:26:04 +0000 2020,"RT @PatrickBrosnan2: As a CPS parent, I wish the district would just abandon this whole plan, and spend all of the remaining time and energ…",-1,"[{""abandon"":-2},{""wish"":1}]",,"[""abandon""]"
+Fri Jul 31 00:25:38 +0000 2020,"RT @arvalv: This is happening right now in Cabo Rojo, Puerto Rico. Area of Combate. No power, water pressure is low. Even in these conditio…",-2,"[{""pressure"":-1},{""no"":-1}]",,"[""pressure"",""no""]"
+Fri Jul 31 00:25:17 +0000 2020,RT @JakeSherman: We are getting more and more messages from deep inside the Trump administration from aides and senior officials who feel l…,0,[],,[]
+Fri Jul 31 00:24:31 +0000 2020,Make some extra income from home now. They are looking for people like you. https://t.co/j3CByqzETZ,2,"[{""like"":2}]",,[]
+Fri Jul 31 00:24:18 +0000 2020,Here’s how to manage your remote worker’s device security https://t.co/x4ZzAtSm9q,0,[],,[]
+Fri Jul 31 00:24:16 +0000 2020,"RT @arvalv: This is happening right now in Cabo Rojo, Puerto Rico. Area of Combate. No power, water pressure is low. Even in these conditio…",-2,"[{""pressure"":-1},{""no"":-1}]",,"[""pressure"",""no""]"
+Fri Jul 31 00:23:56 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:23:41 +0000 2020,Employee experience. Engagement. Culture. Using insights to understand the impact of change on people and they way… https://t.co/Ir47xiuDhy,0,[],,[]
+Fri Jul 31 00:23:01 +0000 2020,Hi all! I thought I’d get this started with my pitch to get Universal to let Marvel make another Hulk movie (thread… https://t.co/xqeoFAsyIU,3,"[{""marvel"":3}]",,[]
+Fri Jul 31 00:22:30 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:22:15 +0000 2020,RT @estsanchezt: The Implications of Working Without an Office...🎯🎯🎯 Very good insights about the difference between home office &amp; lockdown…,3,"[{""good"":3}]",,[]
+Fri Jul 31 00:22:00 +0000 2020,"RT @TechCoHQ: Remote work could have an unintended effect on cybersecurity, and it's not a positive one
+
+https://t.co/RLDO6VvvNr",2,"[{""positive"":2}]",,[]
+Fri Jul 31 00:21:33 +0000 2020,RT @gitlab: Inc Magazine honored us as one of the best places to work and we don't even have an office! Download the ebook to learn what it…,5,"[{""best"":3},{""honored"":2}]",,[]
+Fri Jul 31 00:21:23 +0000 2020,"RT @arvalv: This is happening right now in Cabo Rojo, Puerto Rico. Area of Combate. No power, water pressure is low. Even in these conditio…",-2,"[{""pressure"":-1},{""no"":-1}]",,"[""pressure"",""no""]"
+Fri Jul 31 00:21:19 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:21:10 +0000 2020,"RT @arvalv: This is happening right now in Cabo Rojo, Puerto Rico. Area of Combate. No power, water pressure is low. Even in these conditio…",-2,"[{""pressure"":-1},{""no"":-1}]",,"[""pressure"",""no""]"
+Fri Jul 31 00:21:06 +0000 2020,"RT @FarhangMedcoff: Join Tim Medcoff and Lia Keller of F&amp;M as they guide employers through a refresher course on remote work, intermittent…",1,"[{""join"":1}]",,[]
+Fri Jul 31 00:20:57 +0000 2020,"@James_Mayes Good man yourself @James_Mayes ! 
+
+Seasoned Product professional looking for something interesting to… https://t.co/yu4eo4To7Y",5,"[{""interesting"":2},{""good"":3}]",,[]
+Fri Jul 31 00:20:14 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:20:02 +0000 2020,Will We See a Surge of Homebuyers Moving to the Suburbs?: As remote work continues on for many businesses and Ameri… https://t.co/b8vJpFLs3m,0,[],,[]
+Fri Jul 31 00:19:57 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:19:54 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:19:35 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:18:28 +0000 2020,"RT @VoltaireLaFlare: Rising 3Ls: does anyone want to be my intern in the Fall? Remote, 12-16 hours per week, doing cutting edge federal lit…",0,"[{""cutting"":-1},{""want"":1}]",,"[""cutting""]"
+Fri Jul 31 00:17:38 +0000 2020,"welding is a seriously hazardous profession, to the health and perhaps environment, that's severely underpaid for offsite remote work",-5,"[{""severely"":-2},{""hazardous"":-3}]",,"[""severely"",""hazardous""]"
+Fri Jul 31 00:17:32 +0000 2020,RT @mrwilsons808s: A lot of people chiming in on the work ethic and desire for teachers to go back so a few thoughts: 1. Any teacher who pr…,1,"[{""desire"":1}]",,[]
+Fri Jul 31 00:16:44 +0000 2020,@ThorDeplorable That's the truth.  They don't want to be in a class and don't want remote because it is actually mo… https://t.co/3unkvhho16,-2,"[{""want"":-1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:16:38 +0000 2020,"@likerealproper Not sure if it’s something u would want/need at all, but if u want someone to master songs for u wh… https://t.co/Ikukb00Lfq",2,"[{""want"":1},{""want"":1}]",,[]
+Fri Jul 31 00:16:37 +0000 2020,"RT @thehollybible: 🗣️RT this job opp! Paid position, *can be remote!* We're looking for a Ubisoft Product PR Intern, come work with us! DMs…",0,[],,[]
+Fri Jul 31 00:16:36 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:16:35 +0000 2020,Now it's time for the brazilians!! SÓ OS LINDOS! Our panel about remote work and all it's technologies with a real… https://t.co/Kf7zdk6q3s,0,[],,[]
+Fri Jul 31 00:16:26 +0000 2020,"@KCwvbc @marieb73 @richardzussman @bctf It looks like remote is off the table, I could be wrong. I don’t know how t… https://t.co/Pjry525W6T",0,"[{""wrong"":-2},{""like"":2}]",,"[""wrong""]"
+Fri Jul 31 00:15:53 +0000 2020,"#mac #macOS #servers #enterprise #remote #work #swift #developers
+All our Macs at https://t.co/Opqc5hrmbd are now a… https://t.co/7EbUKf8Rjl",2,"[{""swift"":2}]",,[]
+Fri Jul 31 00:15:30 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:15:10 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:14:46 +0000 2020,"Vinabty New Replaced Remote Control Fit for Roku Streaming Box 1 ( Lt, Hd ) Roku 2 ( Xd, Xs ) and Roku 3 , Roku4 wi… https://t.co/0Ta28aSnYE",1,"[{""fit"":1}]",,[]
+Fri Jul 31 00:14:27 +0000 2020,"RT @VoltaireLaFlare: Rising 3Ls: does anyone want to be my intern in the Fall? Remote, 12-16 hours per week, doing cutting edge federal lit…",0,"[{""cutting"":-1},{""want"":1}]",,"[""cutting""]"
+Fri Jul 31 00:13:50 +0000 2020,"RT @VoltaireLaFlare: Rising 3Ls: does anyone want to be my intern in the Fall? Remote, 12-16 hours per week, doing cutting edge federal lit…",0,"[{""cutting"":-1},{""want"":1}]",,"[""cutting""]"
+Fri Jul 31 00:13:46 +0000 2020,"RT @VoltaireLaFlare: Rising 3Ls: does anyone want to be my intern in the Fall? Remote, 12-16 hours per week, doing cutting edge federal lit…",0,"[{""cutting"":-1},{""want"":1}]",,"[""cutting""]"
+Fri Jul 31 00:13:28 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:12:21 +0000 2020,"RT @Breakingviews: Online shopping, streaming and cloud computing have been boosted by pandemic lockdowns and remote work, solidifying Amaz…",3,"[{""solidifying"":2},{""boosted"":1}]",,[]
+Fri Jul 31 00:12:20 +0000 2020,Remote work worked well at first because we did not really have a choice. Now we have had time to assess - what wor… https://t.co/6NWLBlzEnv,0,[],,[]
+Fri Jul 31 00:12:16 +0000 2020,"RT @Breakingviews: Online shopping, streaming and cloud computing have been boosted by pandemic lockdowns and remote work, solidifying Amaz…",3,"[{""solidifying"":2},{""boosted"":1}]",,[]
+Fri Jul 31 00:12:12 +0000 2020,RT @Netenrich: If you missed the recent #DFIRSummit virtual session w/ Netenrich's @BrandonSHoffman on enabling employees to access tech re…,-2,"[{""missed"":-2}]",,"[""missed""]"
+Fri Jul 31 00:12:01 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:11:55 +0000 2020,"RT @Variety: All three major labels -@SonyMusic, @UMG, @WarnerMusic - ask employees to work from home until 2021 https://t.co/ZF2IvoLJen",0,[],,[]
+Fri Jul 31 00:11:06 +0000 2020,"RT @FeldwoodES: Getting ready to welcome staff back on Monday.. As our educators prepare and engage in Universal Remote Learning, we are co…",3,"[{""engage"":1},{""welcome"":2}]",,[]
+Fri Jul 31 00:10:54 +0000 2020,Google will let employees work from home until at least next summer - “The decision to extend the remote work polic… https://t.co/hx7WeKKmu5,1,"[{""extend"":1}]",,[]
+Fri Jul 31 00:10:49 +0000 2020,"@julielandry @ChrisKeall @juhasaarinen @bex_stevenson *Bringing their jobs with them*.
+
+TONS of folks abroad are on… https://t.co/74n0TrFIcT",0,[],,[]
+Fri Jul 31 00:10:46 +0000 2020,"@FeryalMP Thank you! I hate feeling like there’s no boundary between work and home, but I like being remote. I like… https://t.co/zcI0vaZMNN",3,"[{""like"":2},{""no"":-1},{""like"":2},{""feeling"":1},{""hate"":-3},{""thank"":2}]",,"[""no"",""hate""]"
+Fri Jul 31 00:10:36 +0000 2020,It would appear that digital certificate-based authentication is gaining popularity with remote work. https://t.co/rNm2oEBMFL,5,"[{""popularity"":3},{""gaining"":2}]",,[]
+Fri Jul 31 00:10:35 +0000 2020,#RT @realtordotcom: The ability to work remotely is driving home shoppers' motivation; 40% say they expect to purch… https://t.co/bmzb0IpywH,3,"[{""motivation"":1},{""ability"":2}]",,[]
+Fri Jul 31 00:10:28 +0000 2020,"Just got the official email from work that we will be remote until at least Jan 1, 2021. As much as I knew this was… https://t.co/kmbRYT3kmw",0,[],,[]
+Fri Jul 31 00:10:03 +0000 2020,"Making ""Remote"" Risk and Insurance Technology Implementations Work https://t.co/psmlkhsNDa https://t.co/xB6xLkWGc6",-2,"[{""risk"":-2}]",,"[""risk""]"
+Fri Jul 31 00:10:01 +0000 2020,@varcharr a PAYCUT?? what a bunch of shit. There's research that says you're doing MORE work working remote!,-4,"[{""shit"":-4}]",,"[""shit""]"
+Fri Jul 31 00:09:10 +0000 2020,RT @scibri: Check out this podcast where I shared some of the great work that @RSSinformation did during remote learning and the lessons we…,4,"[{""great"":3},{""shared"":1}]",,[]
+Fri Jul 31 00:09:03 +0000 2020,Withsignificant overhead cost savings and expanded recruitment opportunities unconstrained by geographical boundari… https://t.co/Pk6zkdNwaY,3,"[{""opportunities"":2},{""savings"":1}]",,[]
+Fri Jul 31 00:08:57 +0000 2020,@realDonaldTrump who the hell does  the teacher union think they r if teacher don’t go back to work or work remote… https://t.co/VdJJw0A4M6,-4,"[{""hell"":-4}]",,"[""hell""]"
+Fri Jul 31 00:08:52 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:08:34 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:08:25 +0000 2020,"RT @arvalv: This is happening right now in Cabo Rojo, Puerto Rico. Area of Combate. No power, water pressure is low. Even in these conditio…",-2,"[{""pressure"":-1},{""no"":-1}]",,"[""pressure"",""no""]"
+Fri Jul 31 00:08:22 +0000 2020,"RT @VoltaireLaFlare: Rising 3Ls: does anyone want to be my intern in the Fall? Remote, 12-16 hours per week, doing cutting edge federal lit…",0,"[{""cutting"":-1},{""want"":1}]",,"[""cutting""]"
+Fri Jul 31 00:08:21 +0000 2020,"RT @VoltaireLaFlare: Rising 3Ls: does anyone want to be my intern in the Fall? Remote, 12-16 hours per week, doing cutting edge federal lit…",0,"[{""cutting"":-1},{""want"":1}]",,"[""cutting""]"
+Fri Jul 31 00:08:02 +0000 2020,"Cybersecurity has always been important, but with with the rapid shift to remote work in the last few months it had… https://t.co/qbkOI4LQEv",2,"[{""important"":2}]",,[]
+Fri Jul 31 00:07:21 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:07:00 +0000 2020,"Upgrade to Teams for increased flexibility to scale remote work 
+https://t.co/nMY04E1WZ6  #MicrosoftTeams #Office365",1,"[{""increased"":1}]",,[]
+Fri Jul 31 00:06:31 +0000 2020,"RT @VoltaireLaFlare: Rising 3Ls: does anyone want to be my intern in the Fall? Remote, 12-16 hours per week, doing cutting edge federal lit…",0,"[{""cutting"":-1},{""want"":1}]",,"[""cutting""]"
+Fri Jul 31 00:06:26 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:06:08 +0000 2020,"RT @arvalv: This is happening right now in Cabo Rojo, Puerto Rico. Area of Combate. No power, water pressure is low. Even in these conditio…",-2,"[{""pressure"":-1},{""no"":-1}]",,"[""pressure"",""no""]"
+Fri Jul 31 00:06:00 +0000 2020,"“Don't measure success by how many hours your employees work. Instead, focus on what they are accomplishing.”  https://t.co/RVbPMd5SEh",2,"[{""success"":2}]",,[]
+Fri Jul 31 00:05:31 +0000 2020,"RT @Breakingviews: Online shopping, streaming and cloud computing have been boosted by pandemic lockdowns and remote work, solidifying Amaz…",3,"[{""solidifying"":2},{""boosted"":1}]",,[]
+Fri Jul 31 00:04:40 +0000 2020,"Remote work after the pandemic.
+
+https://t.co/tf7dczBwCn https://t.co/iOOGC5dKdt",0,[],,[]
+Fri Jul 31 00:04:30 +0000 2020,"RT @arvalv: This is happening right now in Cabo Rojo, Puerto Rico. Area of Combate. No power, water pressure is low. Even in these conditio…",-2,"[{""pressure"":-1},{""no"":-1}]",,"[""pressure"",""no""]"
+Fri Jul 31 00:04:13 +0000 2020,"RT @Microsoft365: Your organization can effectively elevate security and performance while also protecting your employees at home. 
+
+Watch…",2,"[{""effectively"":2}]",,[]
+Fri Jul 31 00:04:11 +0000 2020,"RT @arvalv: This is happening right now in Cabo Rojo, Puerto Rico. Area of Combate. No power, water pressure is low. Even in these conditio…",-2,"[{""pressure"":-1},{""no"":-1}]",,"[""pressure"",""no""]"
+Fri Jul 31 00:03:33 +0000 2020,"Parents On Remote Learning, Part 1: Worksheets Don’t Work via @forbes https://t.co/YVAAeRYBPo",0,[],,[]
+Fri Jul 31 00:03:22 +0000 2020,Walked downstairs to my dad shouting “PORTRAIT OF A LADY ON FIRE” into the TV remote tonight...my work here is done :’),0,[],,[]
+Fri Jul 31 00:02:57 +0000 2020,Long-term remote work sinks in for companies https://t.co/na42LaXkjX,0,[],,[]
+Fri Jul 31 00:02:52 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:02:26 +0000 2020,"RT @VoltaireLaFlare: Rising 3Ls: does anyone want to be my intern in the Fall? Remote, 12-16 hours per week, doing cutting edge federal lit…",0,"[{""cutting"":-1},{""want"":1}]",,"[""cutting""]"
+Fri Jul 31 00:01:58 +0000 2020,"RT @RandomActsOrg: We're looking for individuals to become part of our remote, all-volunteer staff. The hours are flexible and you can work…",0,[],,[]
+Fri Jul 31 00:01:42 +0000 2020,"@briangaar But now I hear even the Valley is falling into this trap, so maybe it has more to do with age of company… https://t.co/QtfpWukFoF",-2,"[{""trap"":-1},{""falling"":-1}]",,"[""trap"",""falling""]"
+Fri Jul 31 00:01:29 +0000 2020,@VictorianCHO it’s disappointing that DHHS isn’t able to support remote working arrangements for project and policy… https://t.co/bxT2xxTNPa,0,"[{""support"":2},{""disappointing"":-2}]",,"[""disappointing""]"
+Fri Jul 31 00:01:15 +0000 2020,Americans are consistently starting work later in the day as they work from home — beginning work between 30 to 60… https://t.co/Jf4dHsDlJX,0,[],,[]
+Fri Jul 31 00:01:13 +0000 2020,"The trend, workplace analysts said, could prove positive for those without jobs — in particular, women who might no… https://t.co/TPLPMolPpc",2,"[{""positive"":2}]",,[]
+Fri Jul 31 00:00:59 +0000 2020,"RT @thehollybible: 🗣️RT this job opp! Paid position, *can be remote!* We're looking for a Ubisoft Product PR Intern, come work with us! DMs…",0,[],,[]
+Fri Jul 31 00:00:10 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
+Fri Jul 31 00:00:05 +0000 2020,"Will We See a Surge of Homebuyers Moving to the Suburbs?
+As remote work continues on for many businesses and Americ… https://t.co/x5jw1VkRMr",0,[],,[]
+Thu Jul 30 23:59:57 +0000 2020,"RT @arvalv: This is happening right now in Cabo Rojo, Puerto Rico. Area of Combate. No power, water pressure is low. Even in these conditio…",-2,"[{""pressure"":-1},{""no"":-1}]",,"[""pressure"",""no""]"
+Thu Jul 30 23:59:52 +0000 2020,"RT @VoltaireLaFlare: Rising 3Ls: does anyone want to be my intern in the Fall? Remote, 12-16 hours per week, doing cutting edge federal lit…",0,"[{""cutting"":-1},{""want"":1}]",,"[""cutting""]"
+Thu Jul 30 23:59:45 +0000 2020,RT @georgejnr9: Putting all the patients rooms TV to the NBA games and saying the remote don’t work &gt;&gt;&gt;&gt;&gt;,0,[],,[]
+Thu Jul 30 23:59:38 +0000 2020,"RT @guypbenson: Teachers' unions: We don't want to show up for work because it may not be safe. Also, we don't want to do too much live rem…",-1,"[{""want"":-1},{""safe"":1},{""want"":-1}]",,"[""want"",""want""]"
